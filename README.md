@@ -135,7 +135,4 @@ Here are 3 career skills that are projected to be in high demand in 2026...
 3. Complex Problem-Solving & Critical Thinking
 ```
 
----
 
-## 📝 License
-This project is open-source and available under the MIT License.
